@@ -9,14 +9,13 @@ Let's get started!
 
 
 ## Environment Setup
-- Clone this repo to your local computer
 - Open the folder in terminal and run:
 ```bash
 npm install
 ```
 
 ## Tesing
-In your terminal run this command line:
+run this command line:
 ```bash
 npm run dev
 ```
@@ -26,4 +25,3 @@ npm start
 ```
 Then visit: [http://localhost:3000](http://localhost:3000) on your browser.
 
-Happy Coding :rocket: 
